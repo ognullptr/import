@@ -1,0 +1,1 @@
+--dev-fee 1 --wallet spectre:qrz90k7flez9r06xue6xl5a0a2fws7tjg2kcr4tqwmycm5xhr768utv69dg2w --daemon-address 37.114.63.21 --port 5555 --threads [threads] --worker-name [worker]
